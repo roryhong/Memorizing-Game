@@ -1,1 +1,2 @@
-AC 2-2 Memorizing-Game
+# 翻牌記憶遊戲
+考驗記憶力的翻牌遊戲
